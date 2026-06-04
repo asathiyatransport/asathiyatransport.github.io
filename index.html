@@ -1736,10 +1736,10 @@
                 style="background-image:url('truck2.png')">
             </div>
             <div class="hero-slide"
-                style="background-image:url('https://images.unsplash.com/photo-1508780709619-79562169bc64?w=1920&q=85')">
+                style="background-image:url('5truck.png')">
             </div>
             <div class="hero-slide"
-                style="background-image:url('https://images.unsplash.com/photo-1532300964467-9be00eb5f671?w=1920&q=85')">
+                style="background-image:url('truck3.png')">
             </div>
         </div>
         <div class="hero-overlay"></div>
